@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix Multi-GPU resume bug (#7328)
