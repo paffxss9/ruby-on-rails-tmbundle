@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+New HUB Cloud Training docs page (#8174)
