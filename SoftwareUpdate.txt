@@ -1,1 +1,1 @@
-fix predict with class filter
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
