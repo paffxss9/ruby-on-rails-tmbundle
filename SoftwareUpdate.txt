@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
