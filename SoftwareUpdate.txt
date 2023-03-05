@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
