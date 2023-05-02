@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix PIL show() and save() (#8202)
