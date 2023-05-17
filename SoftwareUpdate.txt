@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
