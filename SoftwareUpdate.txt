@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
