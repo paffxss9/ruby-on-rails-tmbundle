@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add PaddlePaddle Docs Integrations Page (#8858)
