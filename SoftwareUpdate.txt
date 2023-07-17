@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add YOLOv8 LibTorch C++ inference example (#7090)
