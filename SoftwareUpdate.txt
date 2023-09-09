@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
