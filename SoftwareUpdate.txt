@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Fix xyxyxyxyn calculation, swap axis (#8249)
