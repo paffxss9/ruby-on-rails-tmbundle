@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Improve Coral Edge TPU guide (#8160)
