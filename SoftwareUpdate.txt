@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix PNNX ubuntu -> linux bug (#7050)
