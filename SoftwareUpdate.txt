@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Improve Docs Modes tables (#8266)
