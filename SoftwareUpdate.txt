@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Rename model_id to model.id (#8447)
