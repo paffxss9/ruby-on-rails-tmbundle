@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fix undefined ‘im_array’ bug in predict.md (#8565)
